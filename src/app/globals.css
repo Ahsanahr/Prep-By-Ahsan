@@ -1,0 +1,128 @@
+@import "tailwindcss";
+
+/* Class-based dark mode: <html class="dark"> toggles every dark: utility. */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* ---------- Design tokens: white + navy ---------- */
+:root {
+  --bg: #ffffff;
+  --surface: #ffffff;
+  --surface-muted: #f5f7fa;
+  --ink: #1a1f2b;
+  --ink-muted: #5b6475;
+  --border: #d9dee7;
+  --navy: #0b1f3a;
+  --navy-soft: #13294b;
+  --accent: #1f5bd8;
+  --accent-soft: #e8effc;
+  --danger: #c8102e;
+  --success: #0f7b4b;
+}
+
+.dark {
+  --bg: #0b1220;
+  --surface: #111a2c;
+  --surface-muted: #16213a;
+  --ink: #e6eaf2;
+  --ink-muted: #9aa5b8;
+  --border: #253350;
+  --navy: #0a1730;
+  --navy-soft: #1a2b4f;
+  --accent: #5b8cff;
+  --accent-soft: #17264a;
+  --danger: #ff5a6e;
+  --success: #34c38f;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-muted: var(--surface-muted);
+  --color-ink: var(--ink);
+  --color-ink-muted: var(--ink-muted);
+  --color-line: var(--border);
+  --color-navy: var(--navy);
+  --color-navy-soft: var(--navy-soft);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-danger: var(--danger);
+  --color-success: var(--success);
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-serif-body), Georgia, "Times New Roman", serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, monospace;
+}
+
+html,
+body {
+  background: var(--bg);
+  color: var(--ink);
+}
+
+body {
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* KaTeX inherits text colour in both themes */
+.katex {
+  color: inherit;
+}
+
+/* Card 3D Perspective & Animation utilities */
+.perspective-1000 {
+  perspective: 1000px;
+}
+.transform-style-preserve-3d {
+  transform-style: preserve-3d;
+}
+.backface-hidden {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+@keyframes flashcardSlideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-16px) scale(0.97);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.animate-card-slide {
+  animation: flashcardSlideIn 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@keyframes shakeWrong {
+  0%, 100% { transform: translateX(0); }
+  20%, 60% { transform: translateX(-6px); }
+  40%, 80% { transform: translateX(6px); }
+}
+
+.animate-shake-wrong {
+  animation: shakeWrong 0.4s ease-in-out;
+}
+
+@keyframes indeterminateProgress {
+  0% {
+    left: -40%;
+    width: 40%;
+  }
+  50% {
+    left: 20%;
+    width: 60%;
+  }
+  100% {
+    left: 100%;
+    width: 40%;
+  }
+}
+
+.animate-indeterminate {
+  animation: indeterminateProgress 1.5s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+}

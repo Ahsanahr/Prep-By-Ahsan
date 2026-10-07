@@ -1,0 +1,1159 @@
+[
+  {
+    "affix": "a-",
+    "affix_type": "prefix",
+    "meaning": "same as ab- before m, p, or v",
+    "examples": []
+  },
+  {
+    "affix": "ab-",
+    "affix_type": "prefix",
+    "meaning": "away; from; off; down (abhor, abjure)",
+    "examples": [
+      "abhor",
+      "abjure"
+    ]
+  },
+  {
+    "affix": "abs-",
+    "affix_type": "prefix",
+    "meaning": "same as ab- before c or t",
+    "examples": []
+  },
+  {
+    "affix": "ac-",
+    "affix_type": "prefix",
+    "meaning": "same as ad- before p or q",
+    "examples": []
+  },
+  {
+    "affix": "-ac",
+    "affix_type": "suffix",
+    "meaning": "of, relating to (maniac)",
+    "examples": [
+      "maniac"
+    ]
+  },
+  {
+    "affix": "ad-",
+    "affix_type": "prefix",
+    "meaning": "motion toward, nearness to",
+    "examples": []
+  },
+  {
+    "affix": "-ad",
+    "affix_type": "suffix",
+    "meaning": "forms adverbs, meaning toward, like cephelad",
+    "examples": []
+  },
+  {
+    "affix": "af-",
+    "affix_type": "prefix",
+    "meaning": "same as ad- before f",
+    "examples": []
+  },
+  {
+    "affix": "al-",
+    "affix_type": "prefix",
+    "meaning": "means the before words of Arabic origin (algebra)",
+    "examples": [
+      "algebra"
+    ]
+  },
+  {
+    "affix": "-al",
+    "affix_type": "suffix",
+    "meaning": "forms adjectives meaning like (personal) or nouns meaning the act of (rehearsal)",
+    "examples": [
+      "personal"
+    ]
+  },
+  {
+    "affix": "-an",
+    "affix_type": "suffix",
+    "meaning": "belonging to or related to (Mexican)",
+    "examples": [
+      "Mexican"
+    ]
+  },
+  {
+    "affix": "-ance",
+    "affix_type": "suffix",
+    "meaning": "the act or process of doing (continuance), something done (utterance)",
+    "examples": [
+      "continuance"
+    ]
+  },
+  {
+    "affix": "ap-",
+    "affix_type": "prefix",
+    "meaning": "same as ad- before a vowel",
+    "examples": []
+  },
+  {
+    "affix": "-ar, -ary",
+    "affix_type": "suffix",
+    "meaning": "forms adjectives meaning relating to (singular, polar, urinary)",
+    "examples": [
+      "singular",
+      "polar",
+      "urinary"
+    ]
+  },
+  {
+    "affix": "as-",
+    "affix_type": "prefix",
+    "meaning": "same as ad- before s",
+    "examples": []
+  },
+  {
+    "affix": "be-",
+    "affix_type": "prefix",
+    "meaning": "forms verbs meaning around, thoroughly, excessively, treated as (beset, bemoan, befriend)",
+    "examples": []
+  },
+  {
+    "affix": "bi-",
+    "affix_type": "prefix",
+    "meaning": "two, twice (biplane, bilateral)",
+    "examples": [
+      "biplane",
+      "bilateral"
+    ]
+  },
+  {
+    "affix": "bio-",
+    "affix_type": "prefix",
+    "meaning": "life (biography, biology)",
+    "examples": [
+      "biography",
+      "biology"
+    ]
+  },
+  {
+    "affix": "by-",
+    "affix_type": "prefix",
+    "meaning": "close by; on the side (bystander, bypass)",
+    "examples": [
+      "bystander",
+      "bypass"
+    ]
+  },
+  {
+    "affix": "co-",
+    "affix_type": "prefix",
+    "meaning": "same as com- before h or a vowel",
+    "examples": []
+  },
+  {
+    "affix": "col-",
+    "affix_type": "prefix",
+    "meaning": "same as com- before l",
+    "examples": []
+  },
+  {
+    "affix": "com-",
+    "affix_type": "prefix",
+    "meaning": "next to, with, together (compassion)",
+    "examples": [
+      "compassion"
+    ]
+  },
+  {
+    "affix": "con-",
+    "affix_type": "prefix",
+    "meaning": "same as com- before c, d, g, j, n, q, s, t, v, and sometimes f",
+    "examples": []
+  },
+  {
+    "affix": "cor-",
+    "affix_type": "prefix",
+    "meaning": "same as com- before r",
+    "examples": []
+  },
+  {
+    "affix": "-cy",
+    "affix_type": "suffix",
+    "meaning": "quality, state, or condition (lunacy)",
+    "examples": [
+      "lunacy"
+    ]
+  },
+  {
+    "affix": "de-",
+    "affix_type": "prefix",
+    "meaning": "away from; off (derail); down (decline); reverse action; undo (decode)",
+    "examples": [
+      "derail"
+    ]
+  },
+  {
+    "affix": "di-",
+    "affix_type": "prefix",
+    "meaning": "twice, doubled (diatomic, dihybrid)",
+    "examples": [
+      "diatomic",
+      "dihybrid"
+    ]
+  },
+  {
+    "affix": "di-",
+    "affix_type": "prefix",
+    "meaning": "same as dis- before b, d, g, l, m, n, r, or v",
+    "examples": []
+  },
+  {
+    "affix": "dia-",
+    "affix_type": "prefix",
+    "meaning": "through; between (diagonal, diameter)",
+    "examples": [
+      "diagonal",
+      "diameter"
+    ]
+  },
+  {
+    "affix": "dif-",
+    "affix_type": "prefix",
+    "meaning": "same as dis- before f",
+    "examples": []
+  },
+  {
+    "affix": "dis-",
+    "affix_type": "prefix",
+    "meaning": "1. away; apart (disperse, dismiss); 2. not or un- (dishonest); 3. lack of; opposite (disunion, disease)",
+    "examples": [
+      "disperse",
+      "dismiss"
+    ]
+  },
+  {
+    "affix": "-dom",
+    "affix_type": "suffix",
+    "meaning": "1. rank; dominion of (kingdom); 2. state of being (officialdom, martyrdom)",
+    "examples": [
+      "kingdom"
+    ]
+  },
+  {
+    "affix": "-drome",
+    "affix_type": "suffix",
+    "meaning": "1. arena (velodrome); 2. large field or arena (airdrome)",
+    "examples": [
+      "velodrome"
+    ]
+  },
+  {
+    "affix": "dyn-,",
+    "affix_type": "both",
+    "meaning": "dyna- power (dynamo, dynameter)",
+    "examples": [
+      "dynamo",
+      "dynameter"
+    ]
+  },
+  {
+    "affix": "dys-",
+    "affix_type": "prefix",
+    "meaning": "bad, impaired, abnormal (dysfunctional)",
+    "examples": [
+      "dysfunctional"
+    ]
+  },
+  {
+    "affix": "-eer",
+    "affix_type": "suffix",
+    "meaning": "a person who makes or does things (engineer, pamphleteer)",
+    "examples": [
+      "engineer",
+      "pamphleteer"
+    ]
+  },
+  {
+    "affix": "ef-",
+    "affix_type": "prefix",
+    "meaning": "same as ex- before f",
+    "examples": []
+  },
+  {
+    "affix": "em-",
+    "affix_type": "prefix",
+    "meaning": "same as en- before b, m, or p (emboss, empower)",
+    "examples": [
+      "emboss",
+      "empower"
+    ]
+  },
+  {
+    "affix": "en-",
+    "affix_type": "prefix",
+    "meaning": "1. to cover or wrap (enrobe); 2. to cause to be or to make into (endanger); in or into (encase)",
+    "examples": [
+      "enrobe"
+    ]
+  },
+  {
+    "affix": "end-",
+    "affix_type": "prefix",
+    "meaning": "same as endo- before a vowel",
+    "examples": []
+  },
+  {
+    "affix": "endo-",
+    "affix_type": "prefix",
+    "meaning": "within (endosperm, endocrine)",
+    "examples": [
+      "endosperm",
+      "endocrine"
+    ]
+  },
+  {
+    "affix": "epi-",
+    "affix_type": "prefix",
+    "meaning": "on the outside (epidermis)",
+    "examples": [
+      "epidermis"
+    ]
+  },
+  {
+    "affix": "equi-",
+    "affix_type": "prefix",
+    "meaning": "equally (equiangular)",
+    "examples": [
+      "equiangular"
+    ]
+  },
+  {
+    "affix": "-er",
+    "affix_type": "suffix",
+    "meaning": "1. a person having to do with or from somewhere (hatter, writer, New Yorker); 2. forming the comparative (bigger)",
+    "examples": []
+  },
+  {
+    "affix": "-ery",
+    "affix_type": "suffix",
+    "meaning": "1. a place for, or a place to be (eatery, winery); 2. the act of (robbery)",
+    "examples": [
+      "eatery",
+      "winery"
+    ]
+  },
+  {
+    "affix": "-est",
+    "affix_type": "suffix",
+    "meaning": "forming the superlative (greatest, smallest)",
+    "examples": [
+      "greatest",
+      "smallest"
+    ]
+  },
+  {
+    "affix": "ex-",
+    "affix_type": "prefix",
+    "meaning": "former (exwife)",
+    "examples": [
+      "exwife"
+    ]
+  },
+  {
+    "affix": "exo-",
+    "affix_type": "prefix",
+    "meaning": "outside (exoskeleton)",
+    "examples": [
+      "exoskeleton"
+    ]
+  },
+  {
+    "affix": "-fy",
+    "affix_type": "suffix",
+    "meaning": "make; cause to become (liquefy, putrefy)",
+    "examples": [
+      "liquefy",
+      "putrefy"
+    ]
+  },
+  {
+    "affix": "-gamy",
+    "affix_type": "suffix",
+    "meaning": "marriage (polygamy)",
+    "examples": [
+      "polygamy"
+    ]
+  },
+  {
+    "affix": "geo-",
+    "affix_type": "prefix",
+    "meaning": "of the earth (geology)",
+    "examples": [
+      "geology"
+    ]
+  },
+  {
+    "affix": "-gon",
+    "affix_type": "suffix",
+    "meaning": "having a certain number of angles (octagon)",
+    "examples": [
+      "octagon"
+    ]
+  },
+  {
+    "affix": "-gram",
+    "affix_type": "suffix",
+    "meaning": "to write (diagram)",
+    "examples": [
+      "diagram"
+    ]
+  },
+  {
+    "affix": "-graph",
+    "affix_type": "suffix",
+    "meaning": "something that writes, or is written (telegraph)",
+    "examples": [
+      "telegraph"
+    ]
+  },
+  {
+    "affix": "helio-",
+    "affix_type": "prefix",
+    "meaning": "relating to the sun (heliotropism)",
+    "examples": [
+      "heliotropism"
+    ]
+  },
+  {
+    "affix": "hex-",
+    "affix_type": "prefix",
+    "meaning": "same as hexa- before a vowel",
+    "examples": []
+  },
+  {
+    "affix": "hexa-",
+    "affix_type": "prefix",
+    "meaning": "six (hexagon)",
+    "examples": [
+      "hexagon"
+    ]
+  },
+  {
+    "affix": "holo-",
+    "affix_type": "prefix",
+    "meaning": "entire, whole (holograph)",
+    "examples": [
+      "holograph"
+    ]
+  },
+  {
+    "affix": "hom-",
+    "affix_type": "prefix",
+    "meaning": "same as homo- before a vowel",
+    "examples": []
+  },
+  {
+    "affix": "homo-",
+    "affix_type": "prefix",
+    "meaning": "same, equal, alike (homonym)",
+    "examples": [
+      "homonym"
+    ]
+  },
+  {
+    "affix": "hydro-",
+    "affix_type": "prefix",
+    "meaning": "1. water (hydrometer); 2. containing hydrogen (hydrochloric)",
+    "examples": [
+      "hydrometer"
+    ]
+  },
+  {
+    "affix": "-iatry",
+    "affix_type": "suffix",
+    "meaning": "treatment (psychiatry)",
+    "examples": [
+      "psychiatry"
+    ]
+  },
+  {
+    "affix": "-ic",
+    "affix_type": "suffix",
+    "meaning": "having to do with (volcanic)",
+    "examples": [
+      "volcanic"
+    ]
+  },
+  {
+    "affix": "-ide",
+    "affix_type": "suffix",
+    "meaning": "the end of the second name in a compound whose molecule contains exactly two atoms (sodium chloride)",
+    "examples": []
+  },
+  {
+    "affix": "idio-",
+    "affix_type": "prefix",
+    "meaning": "one’s own, personal (idiosyncrasy)",
+    "examples": [
+      "idiosyncrasy"
+    ]
+  },
+  {
+    "affix": "il-",
+    "affix_type": "prefix",
+    "meaning": "same as in- used before l",
+    "examples": []
+  },
+  {
+    "affix": "im-",
+    "affix_type": "prefix",
+    "meaning": "same as in- used before b, m, or p",
+    "examples": []
+  },
+  {
+    "affix": "in-",
+    "affix_type": "prefix",
+    "meaning": "in, into, within, (inside); toward (inward); also used to inten- sify some words of Latin origin (inbreed, induct, infer)",
+    "examples": [
+      "inside"
+    ]
+  },
+  {
+    "affix": "-ine",
+    "affix_type": "suffix",
+    "meaning": "having the nature of; like (crystalline)",
+    "examples": [
+      "crystalline"
+    ]
+  },
+  {
+    "affix": "inter-",
+    "affix_type": "prefix",
+    "meaning": "between or among (interval); 2. together (interact)",
+    "examples": [
+      "interval"
+    ]
+  },
+  {
+    "affix": "intra-",
+    "affix_type": "prefix",
+    "meaning": "within, inward (intramural)",
+    "examples": [
+      "intramural"
+    ]
+  },
+  {
+    "affix": "intro-",
+    "affix_type": "prefix",
+    "meaning": "same as intra- (introvert)",
+    "examples": [
+      "introvert"
+    ]
+  },
+  {
+    "affix": "ir-",
+    "affix_type": "prefix",
+    "meaning": "same as in- used before r",
+    "examples": []
+  },
+  {
+    "affix": "-ism",
+    "affix_type": "suffix",
+    "meaning": "1. condition of being (pauperism); 2. devotion to (nationalism)",
+    "examples": [
+      "pauperism"
+    ]
+  },
+  {
+    "affix": "iso-",
+    "affix_type": "prefix",
+    "meaning": "equal, similar, alike (isobar)",
+    "examples": [
+      "isobar"
+    ]
+  },
+  {
+    "affix": "-ist",
+    "affix_type": "suffix",
+    "meaning": "1. one who does or participates in an -ism (satirist); 2. an expert at something (scientist); 3. a believer or adherent to (atheist)",
+    "examples": [
+      "satirist"
+    ]
+  },
+  {
+    "affix": "-istic, -istical",
+    "affix_type": "suffix",
+    "meaning": "the former of adjectives relating to an action (artistic, egotistical)",
+    "examples": [
+      "artistic",
+      "egotistical"
+    ]
+  },
+  {
+    "affix": "-ite",
+    "affix_type": "suffix",
+    "meaning": "1. inhabitant or native of (Brooklynite); 2. a salt of (halite); 3. a certain rock (lignite); 4. a descendant of (Israelite)",
+    "examples": [
+      "Brooklynite"
+    ]
+  },
+  {
+    "affix": "-itis",
+    "affix_type": "suffix",
+    "meaning": "an inflammatory disease (tonsilitis)",
+    "examples": [
+      "tonsilitis"
+    ]
+  },
+  {
+    "affix": "-lepsy",
+    "affix_type": "suffix",
+    "meaning": "a fit or attack (epilepsy)",
+    "examples": [
+      "epilepsy"
+    ]
+  },
+  {
+    "affix": "-let",
+    "affix_type": "suffix",
+    "meaning": "1. small, diminutive (starlet); 2. small object worn as a band on the body (anklet)",
+    "examples": [
+      "starlet"
+    ]
+  },
+  {
+    "affix": "lipo-",
+    "affix_type": "prefix",
+    "meaning": "fatty (liposuction)",
+    "examples": [
+      "liposuction"
+    ]
+  },
+  {
+    "affix": "-lith, -lithic",
+    "affix_type": "suffix",
+    "meaning": "stone (batholith, neolithic)",
+    "examples": [
+      "batholith",
+      "neolithic"
+    ]
+  },
+  {
+    "affix": "-logy",
+    "affix_type": "suffix",
+    "meaning": "study of (biology)",
+    "examples": [
+      "biology"
+    ]
+  },
+  {
+    "affix": "-lysis",
+    "affix_type": "suffix",
+    "meaning": "destruction; dissolving; loosening; dissolution (analysis)",
+    "examples": [
+      "analysis"
+    ]
+  },
+  {
+    "affix": "macro-",
+    "affix_type": "prefix",
+    "meaning": "large or enlarged (macrobiotic)",
+    "examples": [
+      "macrobiotic"
+    ]
+  },
+  {
+    "affix": "-mania",
+    "affix_type": "suffix",
+    "meaning": "a mental disorder or a wild enthusiasm for something (pyromania, hulamania)",
+    "examples": []
+  },
+  {
+    "affix": "-maniac",
+    "affix_type": "suffix",
+    "meaning": "a person affected by a mania (cleptomaniac)",
+    "examples": [
+      "cleptomaniac"
+    ]
+  },
+  {
+    "affix": "maxi-",
+    "affix_type": "prefix",
+    "meaning": "maximum; of larger scope than usual (maxi-power), often hyphenated as an attachment to a word",
+    "examples": [
+      "maxi-power"
+    ]
+  },
+  {
+    "affix": "micro-",
+    "affix_type": "prefix",
+    "meaning": "very small; a millionth of a unit (microscope, micrometer)",
+    "examples": [
+      "microscope",
+      "micrometer"
+    ]
+  },
+  {
+    "affix": "milli-",
+    "affix_type": "prefix",
+    "meaning": "one one-thousandth of a unit (milliliter)",
+    "examples": [
+      "milliliter"
+    ]
+  },
+  {
+    "affix": "mini-",
+    "affix_type": "prefix",
+    "meaning": "miniature (miniskirt)",
+    "examples": [
+      "miniskirt"
+    ]
+  },
+  {
+    "affix": "mis-",
+    "affix_type": "prefix",
+    "meaning": "wrong; wrongly; bad; poorly (miscue, misfire)",
+    "examples": [
+      "miscue",
+      "misfire"
+    ]
+  },
+  {
+    "affix": "mult-",
+    "affix_type": "prefix",
+    "meaning": "same as multi- before a vowel",
+    "examples": []
+  },
+  {
+    "affix": "multi-",
+    "affix_type": "prefix",
+    "meaning": "much; many; more than two (multichanneled)",
+    "examples": [
+      "multichanneled"
+    ]
+  },
+  {
+    "affix": "narco-",
+    "affix_type": "prefix",
+    "meaning": "1. sleep (narcolepsy); 2. narcotic (narcotism)",
+    "examples": [
+      "narcolepsy"
+    ]
+  },
+  {
+    "affix": "neur-",
+    "affix_type": "prefix",
+    "meaning": "same as neuro- before a vowel",
+    "examples": []
+  },
+  {
+    "affix": "neuro-",
+    "affix_type": "prefix",
+    "meaning": "of the nerves or nervous system (neurology, neuritis)",
+    "examples": [
+      "neurology",
+      "neuritis"
+    ]
+  },
+  {
+    "affix": "non-",
+    "affix_type": "prefix",
+    "meaning": "not; the opposite of (nonagressive)",
+    "examples": [
+      "nonagressive"
+    ]
+  },
+  {
+    "affix": "nona-",
+    "affix_type": "prefix",
+    "meaning": "nine (nonagon, nonet)",
+    "examples": [
+      "nonagon",
+      "nonet"
+    ]
+  },
+  {
+    "affix": "-nym",
+    "affix_type": "suffix",
+    "meaning": "name (pseudonym)",
+    "examples": [
+      "pseudonym"
+    ]
+  },
+  {
+    "affix": "o-",
+    "affix_type": "prefix",
+    "meaning": "same as ob- before m",
+    "examples": []
+  },
+  {
+    "affix": "ob-",
+    "affix_type": "prefix",
+    "meaning": "1. to; for; in front of (obtrude); 2. opposed to; against; oppo- site (obverse); 3. upon; over (obscure)",
+    "examples": [
+      "obtrude"
+    ]
+  },
+  {
+    "affix": "oc-",
+    "affix_type": "prefix",
+    "meaning": "same as ob- before c",
+    "examples": []
+  },
+  {
+    "affix": "oct(a/o)-",
+    "affix_type": "prefix",
+    "meaning": "eight (octagon, octopus)",
+    "examples": [
+      "octagon",
+      "octopus"
+    ]
+  },
+  {
+    "affix": "of-",
+    "affix_type": "prefix",
+    "meaning": "same as ob- before f",
+    "examples": []
+  },
+  {
+    "affix": "-oid",
+    "affix_type": "suffix",
+    "meaning": "like; resembling (ovoid)",
+    "examples": [
+      "ovoid"
+    ]
+  },
+  {
+    "affix": "op-",
+    "affix_type": "prefix",
+    "meaning": "same as ob- before p",
+    "examples": []
+  },
+  {
+    "affix": "-or",
+    "affix_type": "suffix",
+    "meaning": "1. a person or thing that does something specific (addressor, incisor); 2. a quality or condition (error, savor)",
+    "examples": []
+  },
+  {
+    "affix": "-otic",
+    "affix_type": "suffix",
+    "meaning": "1. of or affected with (neurotic); 2. producing (hypnotic)",
+    "examples": [
+      "neurotic"
+    ]
+  },
+  {
+    "affix": "oto-",
+    "affix_type": "prefix",
+    "meaning": "of the ear (ototic)",
+    "examples": [
+      "ototic"
+    ]
+  },
+  {
+    "affix": "-ous",
+    "affix_type": "suffix",
+    "meaning": "full of (beauteous, capacious)",
+    "examples": [
+      "beauteous",
+      "capacious"
+    ]
+  },
+  {
+    "affix": "over-",
+    "affix_type": "prefix",
+    "meaning": "excessive (overact, overindulge)",
+    "examples": [
+      "overact",
+      "overindulge"
+    ]
+  },
+  {
+    "affix": "paleo-",
+    "affix_type": "prefix",
+    "meaning": "ancient (paleontology, paleolithic)",
+    "examples": [
+      "paleontology",
+      "paleolithic"
+    ]
+  },
+  {
+    "affix": "pan-",
+    "affix_type": "prefix",
+    "meaning": "embracing all (pantheistic)",
+    "examples": [
+      "pantheistic"
+    ]
+  },
+  {
+    "affix": "para-",
+    "affix_type": "prefix",
+    "meaning": "by the side of; subordinate to (paralegal, paraprofessional)",
+    "examples": [
+      "paralegal",
+      "paraprofessional"
+    ]
+  },
+  {
+    "affix": "-ped",
+    "affix_type": "suffix",
+    "meaning": "foot (biped)",
+    "examples": [
+      "biped"
+    ]
+  },
+  {
+    "affix": "penta-",
+    "affix_type": "prefix",
+    "meaning": "five (pentagon)",
+    "examples": [
+      "pentagon"
+    ]
+  },
+  {
+    "affix": "peri-",
+    "affix_type": "prefix",
+    "meaning": "1. beyond; around (periscope); 2. near (perinatal)",
+    "examples": [
+      "periscope"
+    ]
+  },
+  {
+    "affix": "phleb-",
+    "affix_type": "prefix",
+    "meaning": "same as phlebo- before a vowel",
+    "examples": []
+  },
+  {
+    "affix": "phlebo-",
+    "affix_type": "prefix",
+    "meaning": "vein (phlebotomy)",
+    "examples": [
+      "phlebotomy"
+    ]
+  },
+  {
+    "affix": "photo-",
+    "affix_type": "prefix",
+    "meaning": "of or produced by light (photocopy)",
+    "examples": [
+      "photocopy"
+    ]
+  },
+  {
+    "affix": "phyto-",
+    "affix_type": "prefix",
+    "meaning": "floral; of a plant; vegetation (phytoplankton)",
+    "examples": [
+      "phytoplankton"
+    ]
+  },
+  {
+    "affix": "plano-",
+    "affix_type": "prefix",
+    "meaning": "having one side flat (planoconvex)",
+    "examples": [
+      "planoconvex"
+    ]
+  },
+  {
+    "affix": "pneumo-",
+    "affix_type": "prefix",
+    "meaning": "of breathing; the lungs; respiration (pneumococcal)",
+    "examples": [
+      "pneumococcal"
+    ]
+  },
+  {
+    "affix": "poly-",
+    "affix_type": "prefix",
+    "meaning": "many (polygon)",
+    "examples": [
+      "polygon"
+    ]
+  },
+  {
+    "affix": "pre-",
+    "affix_type": "prefix",
+    "meaning": "before (prefix)",
+    "examples": [
+      "prefix"
+    ]
+  },
+  {
+    "affix": "pro-",
+    "affix_type": "prefix",
+    "meaning": "for (proactive)",
+    "examples": [
+      "proactive"
+    ]
+  },
+  {
+    "affix": "proto-",
+    "affix_type": "prefix",
+    "meaning": "first in time or importance (protoplasm)",
+    "examples": [
+      "protoplasm"
+    ]
+  },
+  {
+    "affix": "pseudo-",
+    "affix_type": "prefix",
+    "meaning": "false (pseudonym)",
+    "examples": [
+      "pseudonym"
+    ]
+  },
+  {
+    "affix": "psych-",
+    "affix_type": "prefix",
+    "meaning": "same as psycho- before a vowel",
+    "examples": []
+  },
+  {
+    "affix": "psycho-",
+    "affix_type": "prefix",
+    "meaning": "of the mind (psychotic)",
+    "examples": [
+      "psychotic"
+    ]
+  },
+  {
+    "affix": "quadri-",
+    "affix_type": "prefix",
+    "meaning": "four (quadrilateral, quadriped)",
+    "examples": [
+      "quadrilateral",
+      "quadriped"
+    ]
+  },
+  {
+    "affix": "re-",
+    "affix_type": "prefix",
+    "meaning": "again (rethink)",
+    "examples": [
+      "rethink"
+    ]
+  },
+  {
+    "affix": "retro-",
+    "affix_type": "prefix",
+    "meaning": "backward (retrofit)",
+    "examples": [
+      "retrofit"
+    ]
+  },
+  {
+    "affix": "rheo-",
+    "affix_type": "prefix",
+    "meaning": "a flow; current (rheostat)",
+    "examples": [
+      "rheostat"
+    ]
+  },
+  {
+    "affix": "rhino-",
+    "affix_type": "prefix",
+    "meaning": "nose (rhinoplasty)",
+    "examples": [
+      "rhinoplasty"
+    ]
+  },
+  {
+    "affix": "self-",
+    "affix_type": "prefix",
+    "meaning": "of oneself; automatic (self-interest, self-loading)",
+    "examples": [
+      "self-interest",
+      "self-loading"
+    ]
+  },
+  {
+    "affix": "semi-",
+    "affix_type": "prefix",
+    "meaning": "half; twice in a specified period (semicircle, semiannually)",
+    "examples": [
+      "semicircle",
+      "semiannually"
+    ]
+  },
+  {
+    "affix": "sub-",
+    "affix_type": "prefix",
+    "meaning": "1. under; beneath; below (subhuman); 2. of lower rank than; inferior (subordinate); 3. to a lesser degree (subpar); 4. near; almost (substitute)",
+    "examples": [
+      "subhuman"
+    ]
+  },
+  {
+    "affix": "suf-",
+    "affix_type": "prefix",
+    "meaning": "same as sub- before f",
+    "examples": []
+  },
+  {
+    "affix": "sym-",
+    "affix_type": "prefix",
+    "meaning": "same as syn- before b, m, or p",
+    "examples": []
+  },
+  {
+    "affix": "syn-",
+    "affix_type": "prefix",
+    "meaning": "together; at the same time (synchronize)",
+    "examples": [
+      "synchronize"
+    ]
+  },
+  {
+    "affix": "sys-",
+    "affix_type": "prefix",
+    "meaning": "same as syn- before s, h, and other aspirate sounds",
+    "examples": []
+  },
+  {
+    "affix": "tele-",
+    "affix_type": "prefix",
+    "meaning": "at a distance (telecommute); of, in, or by (televise)",
+    "examples": [
+      "telecommute"
+    ]
+  },
+  {
+    "affix": "tran-",
+    "affix_type": "prefix",
+    "meaning": "same as trans- before s",
+    "examples": []
+  },
+  {
+    "affix": "trans-",
+    "affix_type": "prefix",
+    "meaning": "across; on the other side of; above and beyond (transcend, transcontinental)",
+    "examples": []
+  },
+  {
+    "affix": "tri-",
+    "affix_type": "prefix",
+    "meaning": "three (triangle)",
+    "examples": [
+      "triangle"
+    ]
+  },
+  {
+    "affix": "un-",
+    "affix_type": "prefix",
+    "meaning": "not (unused, unsupervised)",
+    "examples": [
+      "unused",
+      "unsupervised"
+    ]
+  },
+  {
+    "affix": "vice-",
+    "affix_type": "prefix",
+    "meaning": "one who acts in place of; second in command (viceroy,",
+    "examples": []
+  },
+  {
+    "affix": "vice",
+    "affix_type": "both",
+    "meaning": "president) 41_571656 appb.qxd  11/10/04  12:50 PM  Page 381",
+    "examples": []
+  }
+]

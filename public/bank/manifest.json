@@ -1,0 +1,87 @@
+{
+  "domains": [
+    {
+      "domain": "craft_and_structure",
+      "title": "Craft and Structure",
+      "section": "reading_writing",
+      "file": "craft_and_structure.json",
+      "count": 437,
+      "templates": {
+        "rw_passage": 390,
+        "rw_paired": 47
+      }
+    },
+    {
+      "domain": "information_and_ideas",
+      "title": "Information and Ideas",
+      "section": "reading_writing",
+      "file": "information_and_ideas.json",
+      "count": 418,
+      "templates": {
+        "rw_passage": 327,
+        "rw_quantitative": 91
+      }
+    },
+    {
+      "domain": "standard_english_conventions",
+      "title": "Standard English Conventions",
+      "section": "reading_writing",
+      "file": "standard_english_conventions.json",
+      "count": 421,
+      "templates": {
+        "rw_passage": 421
+      }
+    },
+    {
+      "domain": "expression_of_ideas",
+      "title": "Expression of Ideas",
+      "section": "reading_writing",
+      "file": "expression_of_ideas.json",
+      "count": 398,
+      "templates": {
+        "rw_passage": 194,
+        "rw_notes": 204
+      }
+    },
+    {
+      "domain": "algebra",
+      "title": "Algebra",
+      "section": "math",
+      "file": "algebra.json",
+      "count": 68,
+      "templates": {
+        "math_mcq": 68
+      }
+    },
+    {
+      "domain": "advanced_math",
+      "title": "Advanced Math",
+      "section": "math",
+      "file": "advanced_math.json",
+      "count": 121,
+      "templates": {
+        "math_mcq": 121
+      }
+    },
+    {
+      "domain": "problem_solving_and_data_analysis",
+      "title": "Problem-Solving and Data Analysis",
+      "section": "math",
+      "file": "problem_solving_and_data_analysis.json",
+      "count": 244,
+      "templates": {
+        "math_figure": 244
+      }
+    },
+    {
+      "domain": "geometry_and_trigonometry",
+      "title": "Geometry and Trigonometry",
+      "section": "math",
+      "file": "geometry_and_trigonometry.json",
+      "count": 255,
+      "templates": {
+        "math_figure": 255
+      }
+    }
+  ]
+}
